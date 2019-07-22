@@ -6468,7 +6468,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:36px;
+  width:42px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6487,7 +6487,7 @@
   position:absolute;
   left:660px;
   top:1574px;
-  width:36px;
+  width:42px;
   height:17px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -6504,7 +6504,7 @@
 }
 #u1235_text {
   border-width:0px;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
 }
 #u1236_div {
@@ -7334,9 +7334,6 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'NotoSans', 'Noto Sans';
-  font-weight:400;
-  font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
@@ -7348,9 +7345,6 @@
   width:97px;
   height:20px;
   display:flex;
-  font-family:'NotoSans', 'Noto Sans';
-  font-weight:400;
-  font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
