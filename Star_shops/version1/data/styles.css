@@ -10,18 +10,6 @@
   line-height:normal;
   text-transform:none;
 }
-.box_1 {
-}
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.image {
-}
-.button {
-}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -66,8 +54,6 @@
 .paragraph {
   text-align:left;
 }
-.line {
-}
 .form_hint {
   color:#999999;
 }
@@ -83,23 +69,13 @@
   text-align:left;
 }
 .table_cell {
-  font-family:'NotoSans', 'Noto Sans';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
 }
-.menu_item {
-  font-family:'NotoSans', 'Noto Sans';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
+._默认样式 {
 }
 .icon {
   font-family:'Roboto-Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
-}
-._默认样式 {
 }
 .droplist {
   font-family:'Roboto-Regular', 'Roboto';
@@ -117,8 +93,27 @@
   color:#000000;
   text-align:left;
 }
+.menu_item {
+  font-family:'NotoSans', 'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+.box_1 {
+}
+.line {
+}
 .primary_button {
   font-family:'Roboto-Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.button {
+}
+.marker {
+  font-family:'NotoSans', 'Noto Sans';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -131,16 +126,17 @@
   font-size:12px;
   color:#169BD5;
 }
-.marker {
-  font-family:'NotoSans', 'Noto Sans';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  color:#FFFFFF;
-}
 .text_area {
   color:#000000;
   text-align:left;
+}
+.ellipse {
+}
+.image {
+}
+.box_3 {
+}
+._表格 {
 }
 .checkbox {
   text-align:left;
@@ -153,7 +149,5 @@
   color:#333333;
   text-align:center;
   line-height:normal;
-}
-._表格 {
 }
 textarea, select, input, button { outline: none; }
